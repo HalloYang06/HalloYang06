@@ -85,16 +85,13 @@
 ## GitHub 动态
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HalloYang06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=22D3EE&text_color=C9D1D9&ring_color=14B8A6" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=HalloYang06&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=22D3EE&currStreakLabel=14B8A6" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HalloYang06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=22D3EE&text_color=C9D1D9&ring_color=14B8A6" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=HalloYang06&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=22D3EE&currStreakLabel=14B8A6" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HalloYang06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HalloYang06&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=14B8A6&point=22D3EE&area_color=14B8A6" alt="Contribution Graph" />
+  <img width="39%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HalloYang06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9" alt="Top Languages" />
+  <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=HalloYang06&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=14B8A6&point=22D3EE&area_color=14B8A6" alt="Contribution Graph" />
 </div>
 
 ---
