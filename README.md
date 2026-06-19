@@ -80,6 +80,35 @@
   </p>
 </div>
 
+---
+
+## GitHub 动态
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HalloYang06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=22D3EE&text_color=C9D1D9&ring_color=14B8A6" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=HalloYang06&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=22D3EE&currStreakLabel=14B8A6" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HalloYang06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HalloYang06&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=14B8A6&point=22D3EE&area_color=14B8A6" alt="Contribution Graph" />
+</div>
+
+---
+
+## 贡献贪吃蛇
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HalloYang06/HalloYang06/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HalloYang06/HalloYang06/output/github-snake.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/HalloYang06/HalloYang06/output/github-snake.svg" alt="GitHub contribution snake animation" />
+  </picture>
+</p>
+
 <p align="center">
   <a href="https://github.com/HalloYang06">
     <img src="https://img.shields.io/badge/GitHub-HalloYang-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
