@@ -82,7 +82,7 @@
 
 ---
 
-## GitHub 动态
+## GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HalloYang06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=22D3EE&text_color=C9D1D9&ring_color=14B8A6" alt="GitHub Stats" />
@@ -96,7 +96,7 @@
 
 ---
 
-## 贡献贪吃蛇
+## Contribution Snake
 
 <p align="center">
   <picture>
